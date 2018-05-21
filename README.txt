@@ -1,4 +1,4 @@
-BAIRN ART HTML Responsive Template
+GREEN HTML Responsive Template
 
 
 Getting Started
